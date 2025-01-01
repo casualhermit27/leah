@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# LEAH - Language Enhanced Artificial Helper
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <h3>Your Intelligent Chat Companion</h3>
+  <p>Experience seamless conversations across multiple domains with elegant design</p>
+</div>
 
-## Available Scripts
+## About LEAH
 
-In the project directory, you can run:
+LEAH is a sophisticated AI chat interface that combines powerful language models with a beautiful, intuitive design. It offers specialized expertise across three domains:
 
-### `npm start`
+### 🤖 AI Models
+- **LLaMA 2** - General purpose AI for everyday conversations
+- **PubMedBERT** - Medical research specialist for healthcare insights
+- **FinBERT** - Financial expert for market analysis and investment guidance
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### ✨ Key Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Domain Expertise**
+  - Smart context switching between different knowledge domains
+  - Specialized responses based on selected model
+  - Real-time analysis and insights
 
-### `npm test`
+- **Beautiful Interface**
+  - Elegant animations and transitions
+  - Ambient gradient effects
+  - Responsive design that adapts to any screen
+  - Smooth message interactions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Smart Interactions**
+  - Code highlighting and instant copying
+  - Real-time typing indicators
+  - Message history preservation
+  - Intuitive navigation
 
-### `npm run build`
+### 🎨 Design Philosophy
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+LEAH combines functionality with aesthetics, featuring:
+- Morphing wave animations
+- Dynamic gradient orbs
+- Clean, minimal interface
+- Professional color scheme
+- Smooth transitions
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 💡 Use Cases
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- General queries and conversations
+- Medical research and healthcare information
+- Financial analysis and market insights
+- Code assistance and technical discussions
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center">
+  Designed and developed with focus on user experience and intelligent interactions
+</div>
